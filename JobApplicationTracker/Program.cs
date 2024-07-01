@@ -4,7 +4,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using JobApplicationTracker.Data;
-using JobApplicationTracker.Repositories; // Add this using statement
+using JobApplicationTracker.Repositories; 
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,7 +16,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Register ApplicationRepository
-builder.Services.AddScoped<ApplicationRepository>(); // Add this line
+builder.Services.AddScoped<ApplicationRepository>();
 
 var app = builder.Build();
 

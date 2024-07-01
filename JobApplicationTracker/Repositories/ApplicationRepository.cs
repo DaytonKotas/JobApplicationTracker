@@ -24,7 +24,5 @@ namespace JobApplicationTracker.Repositories
             _context.Applications.Add(application);
             _context.SaveChanges();
         }
-
-        // Implement other CRUD operations as needed
     }
 }

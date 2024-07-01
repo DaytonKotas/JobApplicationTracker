@@ -34,7 +34,5 @@ namespace JobApplicationTracker.Controllers
             }
             return View(application);
         }
-
-        // Implement Edit, Delete, and Details actions
     }
 }
