@@ -1,0 +1,9 @@
+C:\GitHubDKoat\JobApplicationTracker\JobApplicationTracker\obj\Debug\net8.0\JobApplicationTracker.csproj.AssemblyReference.cache
+C:\GitHubDKoat\JobApplicationTracker\JobApplicationTracker\obj\Debug\net8.0\JobApplicationTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubDKoat\JobApplicationTracker\JobApplicationTracker\obj\Debug\net8.0\JobApplicationTracker.AssemblyInfoInputs.cache
+C:\GitHubDKoat\JobApplicationTracker\JobApplicationTracker\obj\Debug\net8.0\JobApplicationTracker.AssemblyInfo.cs
+C:\GitHubDKoat\JobApplicationTracker\JobApplicationTracker\obj\Debug\net8.0\JobApplicationTracker.csproj.CoreCompileInputs.cache
+C:\GitHubDKoat\JobApplicationTracker\JobApplicationTracker\obj\Debug\net8.0\JobApplicationTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHubDKoat\JobApplicationTracker\JobApplicationTracker\obj\Debug\net8.0\JobApplicationTracker.RazorAssemblyInfo.cache
+C:\GitHubDKoat\JobApplicationTracker\JobApplicationTracker\obj\Debug\net8.0\JobApplicationTracker.RazorAssemblyInfo.cs
+C:\GitHubDKoat\JobApplicationTracker\JobApplicationTracker\obj\Debug\net8.0\JobApplicationTracker.sourcelink.json
